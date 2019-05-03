@@ -1,0 +1,12 @@
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\Shared.dll
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\Shared.pdb
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\AutoMapper.dll
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\System.ValueTuple.dll
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\AutoMapper.pdb
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\AutoMapper.xml
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\bin\Debug\System.ValueTuple.xml
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\obj\Debug\Shared.csproj.CopyComplete
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\obj\Debug\Shared.dll
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\obj\Debug\Shared.pdb
+C:\Users\machiniwala\Desktop\Assignments\Final Exit Project\DigitalCensus\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
